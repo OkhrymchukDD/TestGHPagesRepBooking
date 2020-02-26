@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/css/main.7e480604.chunk.css",
-    "main.js": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/main.48aaaaca.chunk.js",
-    "main.js.map": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/main.48aaaaca.chunk.js.map",
-    "runtime-main.js": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/runtime-main.f05f24d9.js",
-    "runtime-main.js.map": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/runtime-main.f05f24d9.js.map",
-    "static/js/2.5d11d151.chunk.js": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/2.5d11d151.chunk.js",
-    "static/js/2.5d11d151.chunk.js.map": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/2.5d11d151.chunk.js.map",
-    "index.html": "//okhrymchukdd.github.io/TestGHPagesRepBooking/index.html",
-    "precache-manifest.7c8b871f09942217127281334fab56a2.js": "//okhrymchukdd.github.io/TestGHPagesRepBooking/precache-manifest.7c8b871f09942217127281334fab56a2.js",
-    "service-worker.js": "//okhrymchukdd.github.io/TestGHPagesRepBooking/service-worker.js",
-    "static/css/main.7e480604.chunk.css.map": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/css/main.7e480604.chunk.css.map",
-    "static/js/2.5d11d151.chunk.js.LICENSE.txt": "//okhrymchukdd.github.io/TestGHPagesRepBooking/static/js/2.5d11d151.chunk.js.LICENSE.txt"
+    "main.css": "/TestGHPagesRepBooking/static/css/main.c92d19bc.chunk.css",
+    "main.js": "/TestGHPagesRepBooking/static/js/main.401a296b.chunk.js",
+    "main.js.map": "/TestGHPagesRepBooking/static/js/main.401a296b.chunk.js.map",
+    "runtime-main.js": "/TestGHPagesRepBooking/static/js/runtime-main.71abf11f.js",
+    "runtime-main.js.map": "/TestGHPagesRepBooking/static/js/runtime-main.71abf11f.js.map",
+    "static/js/2.7a18aca4.chunk.js": "/TestGHPagesRepBooking/static/js/2.7a18aca4.chunk.js",
+    "static/js/2.7a18aca4.chunk.js.map": "/TestGHPagesRepBooking/static/js/2.7a18aca4.chunk.js.map",
+    "index.html": "/TestGHPagesRepBooking/index.html",
+    "precache-manifest.93214df7a017751ce0f5e5f1eba89b01.js": "/TestGHPagesRepBooking/precache-manifest.93214df7a017751ce0f5e5f1eba89b01.js",
+    "service-worker.js": "/TestGHPagesRepBooking/service-worker.js",
+    "static/css/main.c92d19bc.chunk.css.map": "/TestGHPagesRepBooking/static/css/main.c92d19bc.chunk.css.map",
+    "static/js/2.7a18aca4.chunk.js.LICENSE.txt": "/TestGHPagesRepBooking/static/js/2.7a18aca4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f05f24d9.js",
-    "static/js/2.5d11d151.chunk.js",
-    "static/css/main.7e480604.chunk.css",
-    "static/js/main.48aaaaca.chunk.js"
+    "static/js/runtime-main.71abf11f.js",
+    "static/js/2.7a18aca4.chunk.js",
+    "static/css/main.c92d19bc.chunk.css",
+    "static/js/main.401a296b.chunk.js"
   ]
 }
